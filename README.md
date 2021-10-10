@@ -30,6 +30,8 @@ After completing this course, you'll be able to find answers within large datase
 
 By learning these skills, you'll also become a member of a world-wide community which seeks to build data science tools, explore public datasets, and discuss evidence-based findings. Last but not least, this course will provide you with the foundation you need to succeed in later courses in the Data Science MicroMasters program."
 
+---
+
 Course Learning Goals:
 
 "Basic process of data science
