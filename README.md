@@ -29,3 +29,15 @@ You will learn these tools all within the context of solving compelling data sci
 After completing this course, you'll be able to find answers within large datasets by using python tools to import data, explore it, analyze it, learn from it, visualize it, and ultimately generate easily sharable reports.
 
 By learning these skills, you'll also become a member of a world-wide community which seeks to build data science tools, explore public datasets, and discuss evidence-based findings. Last but not least, this course will provide you with the foundation you need to succeed in later courses in the Data Science MicroMasters program."
+
+Course Learning Goals:
+
+"Basic process of data science
+
+Python and Jupyter notebooks
+
+An applied understanding of how to manipulate and analyze uncurated datasets
+
+Basic statistical analysis and machine learning methods
+
+How to effectively visualize results"
