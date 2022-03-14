@@ -4,9 +4,11 @@ Projects Related to the UCSDx Python for Data Science EdX course certificate
 https://micromasters.ucsd.edu/data-science/python-data-science/index.html
 
 -----
-"Going the Distance: How Commute Time Affects Performance
+"Going the Distance: 
+How Commute Time Affects Performance
 
-Abstract
+Abstract:
+
 A data set combination of student performance and potentially relevant student 
 characteristics from the UCI Machine Learning Repository was used to help identify any 
 relationship between commute time and student performance, which could potentially be 
