@@ -3,6 +3,8 @@ Projects Related to the UCSDx Python for Data Science EdX course certificate
 
 https://micromasters.ucsd.edu/data-science/python-data-science/index.html
 
+Mini-Project: https://github.com/mgg143/UCSDxPythonForDataScience/tree/Mini-Project
+
 ---
 Course Description:
 
